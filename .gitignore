@@ -1,8 +1,8 @@
-# temporary files
-*.swp
-*~
-
-# others
+node_modules/
+npm-debug.log
 .DS_Store
-node_modules
-*.log
+.DS_Store?
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
