@@ -1,4 +1,4 @@
-# Sketchpad [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![NPM version][https://img.shields.io/npm/v/npm.svg?maxAge=2592000]][https://www.npmjs.com/package/sketchpad]
+# Sketchpad [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![NPM version](https://img.shields.io/npm/v/npm.svg?maxAge=2592000)](https://www.npmjs.com/package/sketchpad)
 
 This is the next version of Sketchpad. Our goal is to solve the currenty [known issues](https://github.com/yiom/sketchpad/issues) including:
 
